@@ -13,3 +13,6 @@ Homework:
 --------------------------
 - React Version : 18.3.1
 --------------------------
+createElement is React work
+createRoot is ReactDOM work
+-------------------------------

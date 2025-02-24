@@ -47,7 +47,7 @@ _________________________________
 - to see how JSX code will converted into JS 
 - we can see this at "babeljs.io/repl"
 ---------------------------------
-- <example></example> or <emaple/> both gives same result
+- <example>...</example> or <emaple/> both gives same result
 ---------------------------------
 - in terminal we can see this > 6:36:34 pm [vite] hmr update /src/App.tsx (x19)
     - here "hmr: hot module replacement"
@@ -77,7 +77,7 @@ _____________________________________
 - ctrl +t for search in vs code
 - ctrl + d for selecting/editing multiple class names at once
     - then press "esc" for desecting it.
-- <></> or <Fragment></Fragment> 
+- <></> or <Fragment>...</Fragment> 
 - or goto view>commmand palette>wrap with abbriviation
 - or goto view>commmand palette>format document
 _____________________________________
